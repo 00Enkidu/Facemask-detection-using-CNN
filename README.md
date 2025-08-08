@@ -146,5 +146,14 @@ Test Accuracy = 0.9365
 - This pipeline can be directly adapted or further enhanced for other binary or multi-class image classification tasks in a similar domain.
 
 ---
+## References
+
+- [Face Mask Dataset on Kaggle](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
+- Chollet, F. (2017). *Deep Learning with Python*. Manning Publications.
+- [Keras Documentation](https://keras.io/)
+- [NumPy Documentation](https://numpy.org/)
+- [Pillow Documentation](https://python-pillow.org/)
+
+---
 > All model code, logs, and result plots are based on the original notebook and project files.  
 > For any questions or suggestions, please open an issue.
