@@ -142,5 +142,5 @@ Test Accuracy = 0.9365
 - This pipeline can be directly adapted or further enhanced for other binary or multi-class image classification tasks in a similar domain.
 
 ---
-
+> All model code, logs, and result plots are based on the original notebook and project files.  
 > For any questions or suggestions, please open an issue.
