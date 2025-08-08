@@ -129,7 +129,7 @@ Test Accuracy = 0.9365
 
 Below is the plot of training and validation loss over epochs:
 
-![Training and validation loss curve](4)
+<img width="556" height="413" alt="image" src="https://github.com/user-attachments/assets/a145e541-385e-4cca-9a55-b5fc15de412a" />
 
 ---
 
