@@ -6,7 +6,11 @@ This project implements a deep learning pipeline for detecting whether a person 
 
 ## 1. Dataset Introduction
 
-The dataset used in this project consists of two categories: "with_mask" and "without_mask". Each category contains images of people either wearing or not wearing a face mask. The images are processed and used to train a binary classifier.
+The dataset used in this project consists of two categories: "with_mask" (3725 files) and "without_mask" (3828 files). Each category contains images of people either wearing or not wearing a face mask. The images are processed and used to train a binary classifier. During the training, the test-train-split method was employeed to split the dataset for model training.
+```python
+X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2, random_state=2)
+```
+
 
 - **Example dataset URL:** [https://www.kaggle.com/datasets/omkargurav/face-mask-dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
 
