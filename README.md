@@ -126,9 +126,10 @@ Test Accuracy = 0.9365
 ---
 
 ## 5. Training Result Visualization
+- Below is the plot of training and validation accuracy over epochs:
+<img width="556" height="413" alt="image" src="https://github.com/user-attachments/assets/d63faeac-efd9-421b-af8d-47971783ff87" />
 
-Below is the plot of training and validation loss over epochs:
-
+- Below is the plot of training and validation loss over epochs:
 <img width="556" height="413" alt="image" src="https://github.com/user-attachments/assets/a145e541-385e-4cca-9a55-b5fc15de412a" />
 
 ---
